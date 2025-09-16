@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "YLsC11ugJMLu1uGAaiVqgWaUmVxJPwMzGcXHvm2F9NV",
+  "symbol": "YSP",
+  "name": "Yieldspace",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Yieldspace-Finance/token-list/main/assets/mainnet/YLsC11ugJMLu1uGAaiVqgWaUmVxJPwMzGcXHvm2F9NV/logo.png",
+  "tags": ["DeFi", "Staking", "Utility", "Tokenization"],
+  "extensions": {
+    "website": "https://yieldspace.fi",
+    "description": "AI-powered staking and yield token on Solana."
+  }
+}
